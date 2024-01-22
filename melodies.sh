@@ -13,3 +13,7 @@ menuentry "All Correct" {
 menuentry "CRH2C Departing" {
     play 160 311 1 466 1 784 1 466 1 622 1 466 1 698 1 932 3
 }
+
+menuentry "CR400 Departing" {
+    play 150 466 1 622 1 784 1 932 3
+}
