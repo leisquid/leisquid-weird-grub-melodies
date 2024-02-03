@@ -17,3 +17,7 @@ menuentry "CRH2C Departing" {
 menuentry "CR400 Departing" {
     play 150 466 1 622 1 784 1 932 3
 }
+
+menuentry "Mac Crash" {
+    play 340 349 2 440 2 523 2 698 5 0 5 440 2 466 2 440 2 370 5
+}
