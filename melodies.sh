@@ -12,7 +12,7 @@ menuentry "All Correct" {
     play 810 1319 1 0 1 1568 1 0 1 2637 1 0 1 2093 1 0 1 2349 1 0 1 3136 1
 }
 
-menuentry "CRH2C Departing" {
+menuentry "CRH2C Departing, Suzhou Railway Station Broadcasting" {
     ## bpm=80 d#3  a#3   g4    a#3   d#4   a#3   f4    a#4
     play 160 311 1 466 1 784 1 466 1 622 1 466 1 698 1 932 3
 }
